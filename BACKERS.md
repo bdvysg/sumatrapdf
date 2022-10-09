@@ -56,3 +56,5 @@ For $500/month you can become Platinum Sponsor. Support SumatraPDF and advertise
 - pglpm
 - N. Jensen
 - Keiwan Jamaly
+
+some addings
